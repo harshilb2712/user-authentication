@@ -15,3 +15,8 @@ pirnt(RCB,CSK,MI)
 mi=5
 csk=5
 rcb=0
+
+# century
+
+RCB = 81 
+CSK + MI < RCB
