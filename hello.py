@@ -12,3 +12,6 @@ CSK = 7
 MI = 45
 
 pirnt(RCB,CSK,MI)
+mi=5
+csk=5
+rcb=0
