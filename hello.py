@@ -20,3 +20,7 @@ rcb=0
 
 RCB = 81 
 CSK + MI < RCB
+
+
+def add():
+  return 1+2
